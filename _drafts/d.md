@@ -1,0 +1,9 @@
+---
+layout: post
+title: d
+date: 2019-01-06 00:00:00
+excerpt: 'Minimal, one column Jekyll theme for your blog.'
+project: false
+tag: blog
+comments: false
+---
