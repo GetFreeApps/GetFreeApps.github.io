@@ -55,6 +55,6 @@ GooglePlay स्टोर में "टॉप ऐप " के रूप मे
 
 - रातों से ऐसे वीडियो बनाएं जिन्हें आप कभी नहीं भूलना चाहते जैसे कि लिप-सिंक, डुएट सिंगिंग वीडियो आदि।
 
-<button><h1><a href="https://openload.co/f/suWmxb2926c"> Free Download Click Here </a></h1></button>
+<h1><button><a href="https://openload.co/f/suWmxb2926c"> Free Download Click Here </a></button></h1>
 
 VivaVideo एक मुफ्त वीडियो-संपादन ऐप है, हमारी इन-ऐप खरीदारी एक बेहतर कहानी कहने के अनुभव के लिए अतिरिक्त, शक्तिशाली क्षमताएं प्रदान करती है।
