@@ -9,6 +9,8 @@ comments: false
 
 ![](/uploads/1.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOemEiUamjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 देखें क्यों VivaVideo नंबर 1 वीडियो एडिटर है
 
 VivaVideo के साथ, आप आसानी से &nbsp;बहोत सुंदर दिखने वाली वीडियो कहानियां बना सकते हैं। सैकड़ों उपयोगकर्ता-अनुकूल विशेष प्रभावों में से चुनें जो स्टिकर और फिल्टर से लेकर एनिमेटेड क्लिप और उपशीर्षक तक हर पल को कला के कार्यों में बदलने के लिए हैं।
