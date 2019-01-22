@@ -63,16 +63,5 @@ GooglePlay स्टोर में "टॉप ऐप " के रूप मे
 
 VivaVideo एक मुफ्त वीडियो-संपादन ऐप है, हमारी इन-ऐप खरीदारी एक बेहतर कहानी कहने के अनुभव के लिए अतिरिक्त, शक्तिशाली क्षमताएं प्रदान करती है।
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Google Advertisements -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1874302197813651"
-     data-ad-slot="7883224646"
-     data-ad-format="link"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 #Videoeditor #SlideshowMaker #VideoEditingWithoutWaterm
