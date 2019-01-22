@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
-feature: http://i.imgur.com/Ds6S7lJ.png
+title: "Free Download Viva Video Pro Editor Moded Version 7.7.1 2019"
+date: 2019-01-22
+excerpt: "Free Download Viva Video Pro Moded Version 7.7.1."
+tags: [Video Editor, Viva Video, SlideShowMaker, StoryMaker]
+
 comments: true
 ---
 
