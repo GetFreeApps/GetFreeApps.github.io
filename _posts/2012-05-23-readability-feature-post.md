@@ -5,7 +5,7 @@ date: 2019-01-22
 excerpt: "Free Download Viva Video Pro Moded Version 7.7.1."
 tags: [Video Editor, Viva Video, SlideShowMaker, StoryMaker]
 
-comments: true
+comments: false
 ---
 
 
