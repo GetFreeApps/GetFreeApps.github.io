@@ -8,6 +8,7 @@ background: assets/img/11.jpg
 tiled_bg: false
 locale: en_US
 url: 'https://getfreeapk.xyz'
+google_adsense: "ca-pub-1156626521790434"
 permalink: '/:title/'
 markdown: kramdown
 highlighter: rouge
